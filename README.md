@@ -1,7 +1,7 @@
 ### Hi, I’m @christiandompert
 Working as a front-end lead developer. 
 Right now I´m working with react and nextjs but been through most most of the popular js frameworks. 
-My experience streches from Design ux -> Backend -> Front-end.t
+My experience streches from Design ux -> Backend -> Front-end.
 
 Always want to have the skills to do everything but frontend takes over and is my main point of focus.
 
